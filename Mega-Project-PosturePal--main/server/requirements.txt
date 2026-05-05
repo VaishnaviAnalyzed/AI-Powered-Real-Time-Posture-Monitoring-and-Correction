@@ -1,7 +1,0 @@
-fastapi
-uvicorn[standard]
-opencv-python
-mediapipe
-torch
-torchvision
-numpy
