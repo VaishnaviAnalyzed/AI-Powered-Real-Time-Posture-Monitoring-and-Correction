@@ -61,4 +61,4 @@ This Mega-Project was collaboratively built by:
 - **Poonam Hajare**
 - **Vaishnavi Chandore**
 
-**Repository**: [Mega-Project-PosturePal-](https://github.com/DhruvGhugal/Mega-Project-PosturePal-)
+**Repository**: [Mega-Project-PosturePal-]([https://github.com/DhruvGhugal/Mega-Project-PosturePal](https://github.com/VaishnaviAnalyzed/AI-Powered-Real-Time-Posture-Monitoring-and-Correction)
